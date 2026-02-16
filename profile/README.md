@@ -56,7 +56,7 @@ If anyone is using this image please reach out with a bug report in the [distro 
 
 - First rebase to the unsigned image, to get the proper signing keys and policies installed:
   ```
-  rpm-ostree rebase ostree-unverified-registry:ghcr.io/Sennia-linux/distro:latest
+  rpm-ostree rebase ostree-unverified-registry:ghcr.io/sennia-linux/distro:latest
   ```
 - Reboot to complete the rebase:
   ```
@@ -64,7 +64,7 @@ If anyone is using this image please reach out with a bug report in the [distro 
   ```
 - Then rebase to the signed image, like so:
   ```
-  rpm-ostree rebase ostree-image-signed:docker://ghcr.io/Sennia-linux/distro:latest
+  rpm-ostree rebase ostree-image-signed:docker://ghcr.io/sennia-linux/distro:latest
   ```
 - Reboot again to complete the installation
   ```
