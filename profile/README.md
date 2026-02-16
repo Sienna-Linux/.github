@@ -70,7 +70,3 @@ If anyone is using this image please reach out with a bug report so I don't rand
   ```
   systemctl reboot
   ```
-  
-## Special Thanks
-
-- [asen23](https://github.com/asen23) - They helped a lot with the akmods installation setup
