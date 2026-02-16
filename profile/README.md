@@ -1,6 +1,6 @@
 # Sienna Linux
 
-A cozy fedora atomic remix based on [silverblue-nvidia](https://github.com/ublue-os/main/pkgs/container/silverblue-nvidia) by [ublue](https://universal-blue.org/).
+A cozy [fedora atomic](https://fedoraproject.org/atomic-desktops/) remix based on [silverblue-nvidia](https://github.com/ublue-os/main/pkgs/container/silverblue-nvidia) by [ublue](https://universal-blue.org/).
 
 ![Desktop Screenshot](https://raw.githubusercontent.com/Sienna-Linux/.github/refs/heads/main/profile/preview.png)
 
