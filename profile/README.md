@@ -1,6 +1,6 @@
 # Sienna Linux
 
-An cozy [ublue](https://universal-blue.org/) image based on [silverblue-nvidia](https://github.com/ublue-os/main/pkgs/container/silverblue-nvidia).
+A cozy [ublue](https://universal-blue.org/) image based on [silverblue-nvidia](https://github.com/ublue-os/main/pkgs/container/silverblue-nvidia).
 
 ![Desktop Screenshot](https://raw.githubusercontent.com/Sienna-Linux/.github/refs/heads/main/profile/preview.png)
 
