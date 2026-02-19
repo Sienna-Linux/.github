@@ -20,7 +20,7 @@ If anyone is using this image please reach out with a bug report in the [distro 
 - New default wallpapers added
 - Hack [Nerd Font](https://www.nerdfonts.com/) included
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/), [Appindicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) and [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) extensions included
-- v4l2loopback kernel module for obs virtual webcam
+- ~~v4l2loopback kernel module for obs virtual webcam~~ (temporarly siadabled)
 
 ### Included apps and tools
 
